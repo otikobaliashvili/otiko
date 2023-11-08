@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+
+.myheader{
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    background-image:url(../img/download.jpg);
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.myheader h1{
+    background-color: rgb(189, 187, 184);
+    padding:15px ;
+}
+
+
+.firest{
+    
+}
+
+.sec{
+   
+}
+
+.thtr{
+   
+}
+
+.inlfl{
+    display: inline-flex;
+    background-color: blue;
+}

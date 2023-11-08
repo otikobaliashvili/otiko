@@ -1,0 +1,24 @@
+*{
+  box-sizing:border-box ;  
+}
+
+.my-frindli li{
+    padding: 15px 7px;
+    display: inline-block;
+}
+
+.my-frindli li:hover{
+    background-color: rgb(255, 255, 255);
+}
+
+.my-frindli li a{
+    text-decoration: none;
+    columns: #fff;
+
+}
+
+
+.my-bady{
+    background-color: green;
+    box-shadow: 7px 7px 7px #fff;
+}

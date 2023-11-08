@@ -1,0 +1,61 @@
+
+
+
+@font-face {
+    font-family: BPG;
+    src:url(/img/8359_img_worlds_of_adventure-big1613913137.jpg-1024x683.webp)
+}
+.card{
+    border-radius: 100px;
+}
+
+
+.cards{
+     width: 350px;
+     padding: 25px;
+     height: 450px;
+     background-color: aquamarine;
+     margin-top: 25px;
+     margin-left: auto;
+     margin-right: auto;
+}
+ 
+.prod_img{
+    width: 100%;
+}
+
+.zprice{
+    font-size: 13px;
+    background-color:wheat ;
+    color: #fff;
+    border-radius: 20px;
+    padding: 11px;
+    width:  fit-content;
+}
+
+.price{
+    margin-top:15px;
+}
+
+
+
+.product:hover{
+    background-color: black;
+}
+.zafxuli{
+    width: 300px;
+}
+.cards{
+    width: 550px;
+    height: 500px
+}
+.cards:hover{
+    background-color: red;
+}
+.cards{ 
+     background-color:#fff
+}
+   heade{
+    display: flex;
+    align-items: flex-end; /*vertikaluri ganlageba*/
+   }

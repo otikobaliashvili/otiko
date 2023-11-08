@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<a href=style.css>
+<body>
+    <nav>
+    es aris sanavigacio
+    </nav>
+    <header> 
+        saitis zeda nawili
+    </header>
+    <main>   
+        saistis kontenti
+        <aside> 
+    gverdit mdgari elementi
+        </aside>
+        <section>
+            kontenti
+         </section>   
+<section>
+
+</section>
+
+<section>
+<article>
+
+    <img src="" alt="">
+     <a href="">
+     </article>
+
+
+
+
+     </section>
+    </main>
+    <footer>
+         saitis qveda nawili 
+<address> 
+   <p>
+     misamamrti
+   </p>
+</address>
+    </footer>
+</body>
+<html>
+<body> 
+ <p>
+    es aris chwmi pirveli css
+ </p>
+ <p 
+ class=""mycolor id=""firstcolor>
+ </p>
+ <p> 
+    meore css 
+ </p>
+<head>
+    <style> 
+    h1{
+        color: blue; font-size: xx-large;
+    } .mycolor{
+        color: yellow; font-size: xx-large;
+    }
+    </style>
+</head>
+<p
+ class="mycolor">
+</p>
+</body>
+</html>
+<html>
+
+<body>
+<div class=col10></div>
+    <li><a href=meniu></a></li>
+    <li><a href=meniu></a></li>
+    <li><a href=about></a></li>
+    <li><a href=contact></a></li>
+</body>
+
+<body>
+    <header>
+       <h1>gamarjoba</h1>
+    </header>
+
+</body>
+
+</html>
